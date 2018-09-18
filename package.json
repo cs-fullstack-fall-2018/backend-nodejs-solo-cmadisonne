@@ -1,0 +1,24 @@
+{
+  "name": "backend-nodejs-solo-cmadisonne",
+  "version": "1.0.0",
+  "description": "Backend Solo Classwork",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cs-fullstack-fall-2018/backend-nodejs-solo-cmadisonne.git"
+  },
+  "author": "M.Cooper",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cs-fullstack-fall-2018/backend-nodejs-solo-cmadisonne/issues"
+  },
+  "homepage": "https://github.com/cs-fullstack-fall-2018/backend-nodejs-solo-cmadisonne#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3"
+  }
+}
